@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     chrome_diff (0.1.1)
       ferrum (< 1.0)
     cliver (0.3.2)
@@ -12,7 +12,7 @@ GEM
       cliver (~> 0.3)
       concurrent-ruby (~> 1.1)
       websocket-driver (>= 0.6, < 0.8)
-    public_suffix (4.0.6)
+    public_suffix (5.0.0)
     rack (2.2.3)
     rake (13.0.1)
     websocket-driver (0.7.3)
